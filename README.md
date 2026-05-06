@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student at (Batch 2027).<br>I build things at the intersection of **AI/ML**, **embedded systems**, and **software** —<br>from fine-tuned LLMs running offline on edge devices to IoT robots and backend services.<br><br>Currently sharpening my **DSA in Java** and working toward placements.
+Computer Engineering student (Batch 2027).<br>I build things at the intersection of **AI/ML**, **embedded systems**, and **software** —<br>from fine-tuned LLMs running offline on edge devices to IoT robots and backend services.<br><br>Currently sharpening my **DSA in Java** and working toward placements.
 
 
 ## 🌐 Socials:
